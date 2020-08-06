@@ -2,7 +2,7 @@
 name = "willitspread"
 version = "0.1.0"
 description = ""
-authors = ["Stegmeyer, Samuel <samuel.stegmeyer@accenture.com>"]
+authors = ["Stegmeyer, Samuel <samuel_stegmeyer@posteo.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
